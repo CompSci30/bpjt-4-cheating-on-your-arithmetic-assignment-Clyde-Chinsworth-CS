@@ -9,6 +9,7 @@ public class ArithmeticAssignment
 		int p3 = 10389 * 56 * 11 + 2246; //6401870
 		
 		println("79 + 3 * (4 + 82 - 68) -7 + 19 = " + p1);
+		println("(179 + 21 + 10) / 7 + 181 = " + p2);
 		   
 	}
 }
