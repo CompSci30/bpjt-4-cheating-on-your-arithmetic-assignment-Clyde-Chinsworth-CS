@@ -1,4 +1,4 @@
-//Arithmetic Assignment  Project
+//Arithmetic Assignment Project
 //10/03/2018
 public class ArithmeticAssignment
 {
@@ -8,8 +8,8 @@ public class ArithmeticAssignment
 		int p2 = (179 + 21 + 10) / 7 + 181; //211
 		int p3 = 10389 * 56 * 11 + 2246; //6401870
 		
-		println("79 + 3 * (4 + 82 - 68) -7 + 19 = " + p1);
-		println("(179 + 21 + 10) / 7 + 181 = " + p2);
-		println("10389 * 56 * 11 + 2246 = " + p3);    
+		System.out.println("79 + 3 * (4 + 82 - 68) -7 + 19 = " + p1);
+		System.out.println("(179 + 21 + 10) / 7 + 181 = " + p2);
+		System.out.println("10389 * 56 * 11 + 2246 = " + p3);    
 	}
 }
